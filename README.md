@@ -1,1 +1,3 @@
 # catholic-widget
+<div class="cg_mrc_widget"></div>
+<script src="https://cdn1.catholicgallery.org/wp-content/uploads/widgets/rich-card/cg_mrc_widget.js" async></script>
